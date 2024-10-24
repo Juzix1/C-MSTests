@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kapik\\Documents\\cs\\MathOperationsTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB580856-2D26-4ED8-8F68-C703BDCE9A67}|MathOperationsTests\\MathOperationsTests.csproj|c:\\users\\kapik\\documents\\cs\\mathoperationstests\\mathoperationstests\\classess\\tests\\mathoperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB580856-2D26-4ED8-8F68-C703BDCE9A67}|MathOperationsTests\\MathOperationsTests.csproj|solutionrelative:mathoperationstests\\classess\\tests\\mathoperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB580856-2D26-4ED8-8F68-C703BDCE9A67}|MathOperationsTests\\MathOperationsTests.csproj|c:\\users\\kapik\\documents\\cs\\mathoperationstests\\mathoperationstests\\classess\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB580856-2D26-4ED8-8F68-C703BDCE9A67}|MathOperationsTests\\MathOperationsTests.csproj|solutionrelative:mathoperationstests\\classess\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB580856-2D26-4ED8-8F68-C703BDCE9A67}|MathOperationsTests\\MathOperationsTests.csproj|c:\\users\\kapik\\documents\\cs\\mathoperationstests\\mathoperationstests\\classess\\tests\\calculatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB580856-2D26-4ED8-8F68-C703BDCE9A67}|MathOperationsTests\\MathOperationsTests.csproj|solutionrelative:mathoperationstests\\classess\\tests\\calculatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB580856-2D26-4ED8-8F68-C703BDCE9A67}|MathOperationsTests\\MathOperationsTests.csproj|c:\\users\\kapik\\documents\\cs\\mathoperationstests\\mathoperationstests\\classess\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB580856-2D26-4ED8-8F68-C703BDCE9A67}|MathOperationsTests\\MathOperationsTests.csproj|solutionrelative:mathoperationstests\\classess\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB580856-2D26-4ED8-8F68-C703BDCE9A67}|MathOperationsTests\\MathOperationsTests.csproj|c:\\users\\kapik\\documents\\cs\\mathoperationstests\\mathoperationstests\\classess\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB580856-2D26-4ED8-8F68-C703BDCE9A67}|MathOperationsTests\\MathOperationsTests.csproj|solutionrelative:mathoperationstests\\classess\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\cs\\MathOperationsTests\\MathOperationsTests\\classess\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "MathOperationsTests\\classess\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\cs\\MathOperationsTests\\MathOperationsTests\\classess\\CalculatorService.cs",
+              "RelativeToolTip": "MathOperationsTests\\classess\\CalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:37:24.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\cs\\MathOperationsTests\\MathOperationsTests\\classess\\ICalculator.cs",
+              "RelativeDocumentMoniker": "MathOperationsTests\\classess\\ICalculator.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\cs\\MathOperationsTests\\MathOperationsTests\\classess\\ICalculator.cs",
+              "RelativeToolTip": "MathOperationsTests\\classess\\ICalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:36:37.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\cs\\MathOperationsTests\\MathOperationsTests\\classess\\tests\\CalculatorServiceTests.cs",
+              "RelativeDocumentMoniker": "MathOperationsTests\\classess\\tests\\CalculatorServiceTests.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\cs\\MathOperationsTests\\MathOperationsTests\\classess\\tests\\CalculatorServiceTests.cs",
+              "RelativeToolTip": "MathOperationsTests\\classess\\tests\\CalculatorServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:54:29.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathOperationsTests.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\cs\\MathOperationsTests\\MathOperationsTests\\classess\\tests\\MathOperationsTests.cs",
+              "RelativeDocumentMoniker": "MathOperationsTests\\classess\\tests\\MathOperationsTests.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\cs\\MathOperationsTests\\MathOperationsTests\\classess\\tests\\MathOperationsTests.cs",
+              "RelativeToolTip": "MathOperationsTests\\classess\\tests\\MathOperationsTests.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwHQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:07:46.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\cs\\MathOperationsTests\\MathOperationsTests\\classess\\MathOperations.cs",
+              "RelativeDocumentMoniker": "MathOperationsTests\\classess\\MathOperations.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\cs\\MathOperationsTests\\MathOperationsTests\\classess\\MathOperations.cs",
+              "RelativeToolTip": "MathOperationsTests\\classess\\MathOperations.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:07:42.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
